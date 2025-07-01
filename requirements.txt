@@ -1,0 +1,11 @@
+# Python Backend Requirements (Alternative Implementation)
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+websockets==12.0
+python-multipart==0.0.6
+redis==5.0.1
+numpy==1.24.3
+opencv-python==4.8.1.78
+tensorflow==2.13.0
+python-dotenv==1.0.0
+pydantic==2.5.0
